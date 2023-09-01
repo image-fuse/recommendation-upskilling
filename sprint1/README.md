@@ -1,7 +1,7 @@
 ## DATA WRANGLING
 Data wrangling, also known as data preprocessing, is the process of cleaning, structuring, and transforming raw data into a format that is suitable for analysis and modeling. Data Wrangling is also known as Data Munging.
 
-[](data-wrangling.png)
+![image](data-wrangling.png)
 
 
 ## STEPS:
@@ -13,15 +13,19 @@ In the discovery stage, you'll essentially prepare yourself for rest of the proc
 During the transformation stage, you'll act on the plan you developed during the discovery stage. This piece of the process can be broken down into four components: structuring, normalizing and denormalizing, cleaning, and enriching.
 
 Data structuring
+
 When you structure data, you make sure that your various datasets are in compatible formats. This way, when you combine or merge data, it's in a form that's appropriate for the analytical model you want to use to interpret the data.
 
 Normalizing and denormalizing data
+
 Data normalization involves organizing your data into a coherent database and getting rid of irrelevant or repetitive data. Denormalization involves combining multiple tables or relational databases, making the analysis process quicker. Keep your analysis goal and business users in mind as you think about normalization and denormalization.
 
 Data cleaning
+
 During the cleaning process, you remove errors that might distort or damage the accuracy of your analysis. This includes tasks like standardizing inputs, deleting duplicate values or empty cells, removing outliers, fixing inaccuracies, and addressing biases. Ultimately, the goal is to make sure the data is as error-free as possible.
 
 Enriching data
+
 Once you've transformed your data into a more usable form, consider whether you have all the data you need for your analysis. If you don't, you can enrich it by adding values from other datasets. You also may want to add metadata to your database at this point.
 
 
