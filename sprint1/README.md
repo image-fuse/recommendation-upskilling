@@ -35,3 +35,8 @@ During the validation step, you essentially check the work you did during the tr
 
 4. PUBLISHING
 After you've finished validating your data, you're ready to publish it. When you publish data, you'll put it into whatever file format you prefer for sharing with other team members for downstream analysis purposes.
+
+
+
+## TEXT PREPROCESSING
+Find the docs for some learnings about text cleaning and preprocessing [here](https://acute-spandex-e89.notion.site/Text-Cleaning-cee2e2dec6e449288db567feee3063a7?pvs=4).
